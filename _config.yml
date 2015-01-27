@@ -1,0 +1,12 @@
+title:        Bizzby Tech
+tagline:      "Bizzby's tech blog"
+description:  "Stuff we've learnt, stuff we're learning."
+url:          http://tech.bizzby.com
+version:      1.1.1
+author:
+  name:       ''
+  email:      ''
+markdown:     kramdown
+permalink:    pretty
+pygments:     true
+paginate:     5
