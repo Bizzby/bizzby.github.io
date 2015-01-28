@@ -54,7 +54,7 @@ body {
 }
 
 body {
-  font-family: "Input sans", Helvetica, Arial, sans-serif;
+  font-family: "Input Sans", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: #454441;
@@ -427,3 +427,48 @@ a:focus {
   text-decoration: none;
   background-color: #f5f5f5;
 }
+
+/* Fonts */
+
+.inputsans {
+  font-family: "Input Sans";
+  font-style: normal;
+  font-weight: normal;
+}
+
+.inputsansbold {
+  font-family: "Input Sans";
+  font-style: normal;
+  font-weight: bold;
+}
+
+.inputsansextralight {
+  font-family: "Input Sans Extra Light";
+  font-style: normal;
+  font-weight: normal;
+}
+
+.inputsansitalic {
+  font-family: "Input Sans";
+  font-style: italic;
+  font-weight: normal;
+}
+
+.inputsanslight {
+  font-family: "Input Sans Light";
+  font-style: normal;
+  font-weight: normal;
+}
+
+.inputsansmedium {
+  font-family: "Input Sans Medium";
+  font-style: normal;
+  font-weight: normal;
+}
+
+.inputsansthin {
+  font-family: "Input Sans Thin";
+  font-style: normal;
+  font-weight: normal;
+}
+
